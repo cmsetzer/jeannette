@@ -1,0 +1,151 @@
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic);
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
+}
+
+.navbar {
+    background: #222;
+    border-bottom: none;
+}
+
+.jumbotron {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.85)), url(../img/tyler_jeannette.jpg);
+    background-size: cover;
+    background-position: 25%;
+    color: white;
+    padding: 202px 0;
+}
+
+.jumbotron-mini {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.85)), url(../img/tyler_jeannette.jpg);
+    padding: 50px 0;
+    background-position: bottom;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, nav {
+    font-family: Crimson Text, Cambria, Georgia, sans-serif;
+}
+
+h4 {
+    margin: 1.75rem 0 1rem;
+}
+
+h5 {
+    font-style: italic;
+}
+
+.list-group {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
+
+#accordion > .panel > .panel-heading > h4 > a {
+    display: block;
+}
+
+.panel-collapse a, .panel-collapse a:visited {
+    color: inherit;
+}
+
+div.logbook-box {
+    margin: 20px auto;
+    text-align: center;
+    padding: 40px 0 40px;
+    background-color: #222;
+}
+
+img.img-logbook-page {
+    height: 500px;
+    min-width: 10px;
+}
+
+th, td {
+    width: 12.5%;
+    text-align: center;
+}
+
+.weather-header {
+    cursor: pointer;
+    text-align: center;
+}
+
+.badge-entity {
+    font-weight: lighter;
+}
+
+.badge.animals {
+    background-color: #cdc;
+    color: #565;
+}
+
+.badge.aurora {
+    background-color: #dcd;
+    color: #655;
+}
+
+.badge.sea-ice {
+    background-color: #bcd;
+    color: #567;
+}
+
+.badge.mentions {
+    background-color: #dcb;
+    color: #765;
+}
+
+.badge.refueling {
+    background-color: #ccc;
+    color: #666;
+}
+
+li.current-date {
+    font-weight: bold;
+}
+
+.date-heading {
+    padding-bottom: 18px;
+}
+
+pre.edited-text {
+    font-family: Crimson Text, Cambria, Georgia, sans-serif;
+    font-size: 1.5rem;
+}
+
+table.table-observations {
+    font-size: 1.2rem;
+}
+
+div.weather-codes {
+    font-size: 1.2rem;
+    line-height: 1.42857143rem;
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 1px;
+}
+
+h4.panel-title a, h4.panel-title a:hover, h4.panel-title a:active {
+    text-decoration: none;
+}
+
+.subject-keywords {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    margin-bottom: 30px;
+}
