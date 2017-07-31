@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fieldBooks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <fieldBook id="F01">
+        <metadata>
+            <creators>
+                <creator label="Author" property="dcterms:creator">
+                    National Oceanic and Atmospheric Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    National Archives and Records Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Met Office Hadley Centre
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Old Weather
+                </creator>
+            </creators>
+            <dateCreated label="Date Created" property="dcterms:date">
+                2015
+            </dateCreated>
+            <title label="Title" property="dcterms:title">
+                Edited Logbooks of the USS Jeannette
+            </title>
+            <description label="Item Description" property="dcterms:description"> 
+                Transcriptions of ship logs for the USS Jeannette. Logbooks were scanned by the National Oceanic and Atmospheric Administration (NOAA) through a cooperative agreement with the National Archives and Records Administration (NARA). The scanned data and text were transcribed through a crowd-sourcing citizen science initiative, Old Weather (a Zooniverse project; see http://www.oldweather.org). Each logbook page was transcribed by three separate volunteers. Inconsistencies between numeric entries were resolved by way of scripts that searched for uniformity. Text entries were edited and reconciled manually by editors.
+            </description>
+            <contact>
+                <contactName label="Name" property="dcterms:contact">
+                    Kevin R. Wood
+                </contactName>
+                <contactDivision label="Division" property="dcterms:contact"> 
+                    Office of Oceanic and Atmospheric Research
+                </contactDivision>
+                <contactOrganization label="Organization" property="dcterms:contact">
+                    National Oceanic and Atmospheric Administration
+                </contactOrganization>
+                <contactEmail label="Email" property="dcterms:contact">
+                    kevin.r.wood@noaa.gov
+                </contactEmail>
+            </contact>
+            <dataDistributor label="Distributor" property="dcterms:publisher">
+                National Oceanic and Atmospheric Administration
+            </dataDistributor>
+            <archiveRecords>
+                <boxVolumeNumber label="Box or Volume" property="dcterms:source">
+                    Volume 1 of 4
+                </boxVolumeNumber>
+                <fileUnit label="File Unit" property="dcterms:source">
+                    USS Jeannette, 06/1879-01/1880
+                </fileUnit>
+                <seriesName label="Series" property="dcterms:source">
+                    Logbooks of U.S. Navy Ships, ca. 1801-1940
+                </seriesName>
+                <recordGroupTitle label="Record Group (title)" property="dcterms:source">
+                    Records of the Bureau of Naval Personnel, 1798-2007
+                </recordGroupTitle>
+                <recordGroup label="Record Group" property="dcterms:source">
+                    24
+                </recordGroup>
+                <repository label="Repository" property="dcterms:source">
+                    National Archives at Washington, DC
+                </repository>
+                <onlineSource label="Source" property="dcterms:source">
+                    National Archives OPA
+                </onlineSource>
+                <onlineID label="Online ID" property="dcterms:source">
+                    6919191
+                </onlineID>
+                <url label="URL" property="dcterms:source">
+                    http://research.archives.gov/description/6919191
+                </url>
+            </archiveRecords>
+            <termsOfUse label="Terms of Use" property="dcterms:rights">
+                Offered free and without restriction under 17 U.S.C. § 105
+            </termsOfUse>
+            <sampleCite label="Citation" property="dcterms:bibliographicCitation">
+                National Oceanic and Atmospheric Administration, National Archives and Records Administration, Met Office Hadley Centre, and Old Weather. (2015): Edited Logbooks of the USS Jeannette, volume 1/4. Transcribed from: USS Jeannette, 06/1879-01/1880; Logbooks of U.S. Navy Ships, ca. 1801-1940; Records of the Bureau of Naval Personnel, 1798-2007, record group 24; National Archives at Washington, DC [online version available through the National Archives OPA (NA Identifier 6919191) at http://research.archives.gov/description/6919191].
+            </sampleCite>
+            <relatedLinks>
+                <relatedLink>
+                    <title label="Title" property="dcterms:relation">
+                        The voyage of the Jeannette. The ship and ice journals of George W. DeLong, lieutenant-commander U.S.N. and commander of the Polar expedition of 1879-1881
+                    </title>
+                    <author label="Author" property="dcterms:relation">
+                        DeLong, George W., and DeLong, Emma Wotton
+                    </author>
+                    <url label="URL" property="dcterms:relation">
+                        http://dx.doi.org/10.5962/bhl.title.6873
+                    </url>
+                </relatedLink>
+            </relatedLinks>
+            <keywords>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Jeannette (ship)
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Arctic Regions
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    DeLong, George
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Logbooks--19th century
+                </keyword>
+                </keywords>
+        </metadata>
+    </fieldBook>
+    <fieldBook id="F02">
+        <metadata>
+            <creators>
+                <creator label="Author" property="dcterms:creator">
+                    National Oceanic and Atmospheric Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    National Archives and Records Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Met Office Hadley Centre
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Old Weather
+                </creator>
+            </creators>
+            <dateCreated label="Date Created" property="dcterms:date">
+                2015
+            </dateCreated>
+            <title label="Title" property="dcterms:title">
+                Edited Logbooks of the USS Jeannette
+            </title>
+            <description label="Item Description" property="dcterms:description"> 
+                Transcriptions of ship logs for the USS Jeannette. Logbooks were scanned by the National Oceanic and Atmospheric Administration (NOAA) through a cooperative agreement with the National Archives and Records Administration (NARA). The scanned data and text were transcribed through a crowd-sourcing citizen science initiative, Old Weather (a Zooniverse project; see http://www.oldweather.org). Each logbook page was transcribed by three separate volunteers. Inconsistencies between numeric entries were resolved by way of scripts that searched for uniformity. Text entries were edited and reconciled manually by editors.
+            </description>
+            <contact>
+                <contactName label="Name" property="dcterms:contact">
+                    Kevin R. Wood
+                </contactName>
+                <contactDivision label="Division" property="dcterms:contact"> 
+                    Office of Oceanic and Atmospheric Research
+                </contactDivision>
+                <contactOrganization label="Organization" property="dcterms:contact">
+                    National Oceanic and Atmospheric Administration
+                </contactOrganization>
+                <contactEmail label="Email" property="dcterms:contact">
+                    kevin.r.wood@noaa.gov
+                </contactEmail>
+            </contact>
+            <dataDistributor label="Distributor" property="dcterms:publisher">
+                National Oceanic and Atmospheric Administration
+            </dataDistributor>
+            <archiveRecords>
+                <boxVolumeNumber label="Box or Volume" property="dcterms:source">
+                    Volume 2 of 4
+                </boxVolumeNumber>
+                <fileUnit label="File Unit" property="dcterms:source">
+                    USS Jeannette, 01/1880-07/1880
+                </fileUnit>
+                <seriesName label="Series" property="dcterms:source">
+                    Logbooks of U.S. Navy Ships, ca. 1801-1940
+                </seriesName>
+                <recordGroupTitle label="Record Group (title)" property="dcterms:source">
+                    Records of the Bureau of Naval Personnel, 1798-2007
+                </recordGroupTitle>
+                <recordGroup label="Record Group" property="dcterms:source">
+                    24
+                </recordGroup>
+                <repository label="Repository" property="dcterms:source">
+                    National Archives at Washington, DC
+                </repository>
+                <onlineSource label="Source" property="dcterms:source">
+                    National Archives OPA
+                </onlineSource>
+                <onlineID label="Online ID" property="dcterms:source">
+                    6919192
+                </onlineID>
+                <url label="URL" property="dcterms:source">
+                    http://research.archives.gov/description/6919192
+                </url>
+            </archiveRecords>
+            <termsOfUse label="Terms of Use" property="dcterms:rights">
+                Offered free and without restriction under 17 U.S.C. § 105
+            </termsOfUse>
+            <sampleCite label="Citation" property="dcterms:bibliographicCitation">
+                National Oceanic and Atmospheric Administration, National Archives and Records Administration, Met Office Hadley Centre, and Old Weather. (2015): Edited Logbooks of the USS Jeannette, volume 2/4. Transcribed from: USS Jeannette, 01/1880-07/1880; Logbooks of U.S. Navy Ships, ca. 1801-1940; Records of the Bureau of Naval Personnel, 1798-2007, record group 24; National Archives at Washington, DC [online version available through the National Archives OPA (NA Identifier 6919192) at http://research.archives.gov/description/6919192].
+            </sampleCite>
+            <relatedLinks>
+                <relatedLink>
+                    <title label="Title" property="dcterms:relation">
+                        The voyage of the Jeannette. The ship and ice journals of George W. DeLong, lieutenant-commander U.S.N. and commander of the Polar expedition of 1879-1881
+                    </title>
+                    <author label="Author" property="dcterms:relation">
+                        DeLong, George W., and DeLong, Emma Wotton
+                    </author>
+                    <url label="URL" property="dcterms:relation">
+                        http://dx.doi.org/10.5962/bhl.title.6873
+                    </url>
+                </relatedLink>
+            </relatedLinks>
+            <keywords>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Jeannette (ship)
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Arctic Regions
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    DeLong, George
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Logbooks--19th century
+                </keyword>
+            </keywords>
+        </metadata>
+    </fieldBook>
+    <fieldBook id="F03">
+        <metadata>
+            <creators>
+                <creator label="Author" property="dcterms:creator">
+                    National Oceanic and Atmospheric Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    National Archives and Records Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Met Office Hadley Centre
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Old Weather
+                </creator>
+            </creators>
+            <dateCreated label="Date Created" property="dcterms:date">
+                2015
+            </dateCreated>
+            <title label="Title" property="dcterms:title">
+                Edited Logbooks of the USS Jeannette
+            </title>
+            <description label="Item Description" property="dcterms:description"> 
+                Transcriptions of ship logs for the USS Jeannette. Logbooks were scanned by the National Oceanic and Atmospheric Administration (NOAA) through a cooperative agreement with the National Archives and Records Administration (NARA). The scanned data and text were transcribed through a crowd-sourcing citizen science initiative, Old Weather (a Zooniverse project; see http://www.oldweather.org). Each logbook page was transcribed by three separate volunteers. Inconsistencies between numeric entries were resolved by way of scripts that searched for uniformity. Text entries were edited and reconciled manually by editors.
+            </description>
+            <contact>
+                <contactName label="Name" property="dcterms:contact">
+                    Kevin R. Wood
+                </contactName>
+                <contactDivision label="Division" property="dcterms:contact"> 
+                    Office of Oceanic and Atmospheric Research
+                </contactDivision>
+                <contactOrganization label="Organization" property="dcterms:contact">
+                    National Oceanic and Atmospheric Administration
+                </contactOrganization>
+                <contactEmail label="Email" property="dcterms:contact">
+                    kevin.r.wood@noaa.gov
+                </contactEmail>
+            </contact>
+            <dataDistributor label="Distributor" property="dcterms:publisher">
+                National Oceanic and Atmospheric Administration
+            </dataDistributor>
+            <archiveRecords>
+                <boxVolumeNumber label="Box or Volume" property="dcterms:source">
+                    Volume 3 of 4
+                </boxVolumeNumber>
+                <fileUnit label="File Unit" property="dcterms:source">
+                    USS Jeannette, 07/1880-02/1881
+                </fileUnit>
+                <seriesName label="Series" property="dcterms:source">
+                    Logbooks of U.S. Navy Ships, ca. 1801-1940
+                </seriesName>
+                <recordGroupTitle label="Record Group (title)" property="dcterms:source">
+                    Records of the Bureau of Naval Personnel, 1798-2007
+                </recordGroupTitle>
+                <recordGroup label="Record Group" property="dcterms:source">
+                    24
+                </recordGroup>
+                <repository label="Repository" property="dcterms:source">
+                    National Archives at Washington, DC
+                </repository>
+                <onlineSource label="Source" property="dcterms:source">
+                    National Archives OPA
+                </onlineSource>
+                <onlineID label="Online ID" property="dcterms:source">
+                    6919193
+                </onlineID>
+                <url label="URL" property="dcterms:source">
+                    http://research.archives.gov/description/6919193
+                </url>
+            </archiveRecords>
+            <termsOfUse label="Terms of Use" property="dcterms:rights">
+                Offered free and without restriction under 17 U.S.C. § 105
+            </termsOfUse>
+            <sampleCite label="Citation" property="dcterms:bibliographicCitation">
+                National Oceanic and Atmospheric Administration, National Archives and Records Administration, Met Office Hadley Centre, and Old Weather. (2015): Edited Logbooks of the USS Jeannette, volume 3/4. Transcribed from: USS Jeannette, 07/1880-02/1881; Logbooks of U.S. Navy Ships, ca. 1801-1940; Records of the Bureau of Naval Personnel, 1798-2007, record group 24; National Archives at Washington, DC [online version available through the National Archives OPA (NA Identifier 6919193) at http://research.archives.gov/description/6919193].
+            </sampleCite>
+            <relatedLinks>
+                <relatedLink>
+                    <title label="Title" property="dcterms:relation">
+                        The voyage of the Jeannette. The ship and ice journals of George W. DeLong, lieutenant-commander U.S.N. and commander of the Polar expedition of 1879-1881
+                    </title>
+                    <author label="Author" property="dcterms:relation">
+                        DeLong, George W., and DeLong, Emma Wotton
+                    </author>
+                    <url label="URL" property="dcterms:relation">
+                        http://dx.doi.org/10.5962/bhl.title.6873
+                    </url>
+                </relatedLink>
+            </relatedLinks>
+            <keywords>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Jeannette (ship)
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Arctic Regions
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    DeLong, George
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Logbooks--19th century
+                </keyword>
+            </keywords>
+        </metadata>
+    </fieldBook>
+    <fieldBook id="F04">
+        <metadata>
+            <creators>
+                <creator label="Author" property="dcterms:creator">
+                    National Oceanic and Atmospheric Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    National Archives and Records Administration
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Met Office Hadley Centre
+                </creator>
+                <creator label="Author" property="dcterms:creator">
+                    Old Weather
+                </creator>
+            </creators>
+            <dateCreated label="Date Created" property="dcterms:date">
+                2015
+            </dateCreated>
+            <title label="Title" property="dcterms:title">
+                Edited Logbooks of the USS Jeannette
+            </title>
+            <description label="Item Description" property="dcterms:description"> 
+                Transcriptions of ship logs for the USS Jeannette. Logbooks were scanned by the National Oceanic and Atmospheric Administration (NOAA) through a cooperative agreement with the National Archives and Records Administration (NARA). The scanned data and text were transcribed through a crowd-sourcing citizen science initiative, Old Weather (a Zooniverse project; see http://www.oldweather.org). Each logbook page was transcribed by three separate volunteers. Inconsistencies between numeric entries were resolved by way of scripts that searched for uniformity. Text entries were edited and reconciled manually by editors.
+            </description>
+            <contact>
+                <contactName label="Name" property="dcterms:contact">
+                    Kevin R. Wood
+                </contactName>
+                <contactDivision label="Division" property="dcterms:contact"> 
+                    Office of Oceanic and Atmospheric Research
+                </contactDivision>
+                <contactOrganization label="Organization" property="dcterms:contact">
+                    National Oceanic and Atmospheric Administration
+                </contactOrganization>
+                <contactEmail label="Email" property="dcterms:contact">
+                    kevin.r.wood@noaa.gov
+                </contactEmail>
+            </contact>
+            <dataDistributor label="Distributor" property="dcterms:publisher">
+                National Oceanic and Atmospheric Administration
+            </dataDistributor>
+            <archiveRecords>
+                <boxVolumeNumber label="Box or Volume" property="dcterms:source">
+                    Volume 4 of 4
+                </boxVolumeNumber>
+                <fileUnit label="File Unit" property="dcterms:source">
+                    USS Jeannette, 02/1881-06/1881
+                </fileUnit>
+                <seriesName label="Series" property="dcterms:source">
+                    Logbooks of U.S. Navy Ships, ca. 1801-1940
+                </seriesName>
+                <recordGroupTitle label="Record Group (title)" property="dcterms:source">
+                    Records of the Bureau of Naval Personnel, 1798-2007
+                </recordGroupTitle>
+                <recordGroup label="Record Group" property="dcterms:source">
+                    24
+                </recordGroup>
+                <repository label="Repository" property="dcterms:source">
+                    National Archives at Washington, DC
+                </repository>
+                <onlineSource label="Source" property="dcterms:source">
+                    National Archives OPA
+                </onlineSource>
+                <onlineID label="Online ID" property="dcterms:source">
+                    6919194
+                </onlineID>
+                <url label="URL" property="dcterms:source">
+                    http://research.archives.gov/description/6919194
+                </url>
+            </archiveRecords>
+            <termsOfUse label="Terms of Use" property="dcterms:rights">
+                Offered free and without restriction under 17 U.S.C. § 105
+            </termsOfUse>
+            <sampleCite label="Citation" property="dcterms:bibliographicCitation">
+                National Oceanic and Atmospheric Administration, National Archives and Records Administration, Met Office Hadley Centre, and Old Weather. (2015): Edited Logbooks of the USS Jeannette, volume 4/4. Transcribed from: USS Jeannette, 02/1881-06/1881; Logbooks of U.S. Navy Ships, ca. 1801-1940; Records of the Bureau of Naval Personnel, 1798-2007, record group 24; National Archives at Washington, DC [online version available through the National Archives OPA (NA Identifier 6919194) at http://research.archives.gov/description/6919194].
+            </sampleCite>
+            <relatedLinks>
+                <relatedLink>
+                    <title label="Title" property="dcterms:relation">
+                        The voyage of the Jeannette. The ship and ice journals of George W. DeLong, lieutenant-commander U.S.N. and commander of the Polar expedition of 1879-1881
+                    </title>
+                    <author label="Author" property="dcterms:relation">
+                        DeLong, George W., and DeLong, Emma Wotton
+                    </author>
+                    <url label="URL" property="dcterms:relation">
+                        http://dx.doi.org/10.5962/bhl.title.6873
+                    </url>
+                </relatedLink>
+            </relatedLinks>
+            <keywords>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Jeannette (ship)
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Arctic Regions
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    DeLong, George
+                </keyword>
+                <keyword property="dcterms:subject" label="Related Subject">
+                    Logbooks--19th century
+                </keyword>
+            </keywords>
+        </metadata>
+    </fieldBook>
+</fieldBooks>
